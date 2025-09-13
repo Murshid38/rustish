@@ -11,3 +11,10 @@ All the features in bash
 Native completions like Fish
 Native Syntax highlighting 
 Table mode like Nushell
+
+# Initial commands to implement
+
+pwd
+cd
+grep
+wget
